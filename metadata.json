@@ -1,0 +1,11 @@
+{
+  "name": "Carbyn AI Assistant",
+  "description": "Hands-free real-time multimodal AR assistant for technicians with HVAC/CNC troubleshooting manuals, live HUD overlay, and voice support.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
